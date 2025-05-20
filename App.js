@@ -5,6 +5,8 @@ const App = () => {
   return (
     <View>
       <Text>App</Text>
+      <Text>Version 2</Text>
+
     </View>
   )
 }
