@@ -7,8 +7,7 @@ const App = () => {
       <Text>App</Text>
       <Text>Version 2</Text>
       <Text>Version 3</Text>
-
-
+zdvxbfcbsv xfdz
     </View>
   )
 }
